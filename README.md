@@ -1,0 +1,1 @@
+# auboi5_moveit_config
